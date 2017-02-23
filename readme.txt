@@ -1,6 +1,3 @@
-new
 
-test readme
-
-Git is a version control system by Linus.
-Git is a free software which is well famous
+Git is a distributed version control system.
+Git is a free software distributed under the GPL.
